@@ -39,7 +39,7 @@ export class ContactPage {
       //this.marker = new google.maps.Marker({position: nsbm, map: this.map});
 
 
-      this.image = 'assets/imgs/s103.ico';
+      this.image = 'assets/imgs/favicon.ico';
       this.beachMarker = new google.maps.Marker({
         position: nsbm,
         map: this.map,
